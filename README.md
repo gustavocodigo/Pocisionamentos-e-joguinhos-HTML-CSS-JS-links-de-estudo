@@ -2,5 +2,5 @@
 https://cssgridgarden.com/
 ## FLEX
 https://flexboxfroggy.com/
-## DOM
+## CSS HIERARCHY
 https://flukeout.github.io/
